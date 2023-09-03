@@ -18,12 +18,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Vishal",
+  "author": "Vishal Jaiswal",
   "license": "ISC",
   "description": ""
 }
